@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋🏽, I'm Akshavi Baskaran!</h1>
-<h3 align="center">A passionate software engineering student at Carleton University!</h3>
+<h3 align="center">A passionate second year software engineering student at Carleton University! As a dedicated student always seeking to expand my knowledge, I am eager to gain a better understanding of the programming world. </h3>
 
 - 🌱 I’m currently learning **JavaScript, ReactJS and NextJS.**
-
+  
 - 📫 How to reach me **akshavi.bt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
